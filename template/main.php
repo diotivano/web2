@@ -5,5 +5,4 @@
 	require_once 'sidebar.php';
 	require_once 'footer.php';
 
-
  ?>
